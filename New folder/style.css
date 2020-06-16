@@ -1,11 +1,4 @@
-/* [Master Stylesheet v1.0]
 
-- Template Name: Delicious - Food Blog Template
-- Template Author: Colorlib
-- Template URL: colorlib.com
-- Version: 1.0.0
-
-*/
 /* :: 1.0 Import Fonts */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i");
 /* :: 2.0 Import All CSS */
@@ -139,12 +132,13 @@ img {
   padding-bottom: 80px; }
 
 .section-padding-80-0 {
-  padding-top: 80px;
+  /* padding-top: 80px; */
   padding-bottom: 0; }
 
 .section-padding-0-80 {
   padding-top: 0;
-  padding-bottom: 80px; }
+  /* padding-bottom: 80px; */
+ }
 
 /* Section Heading */
 .section-heading {
