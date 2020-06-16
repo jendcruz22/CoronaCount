@@ -719,11 +719,12 @@ textarea:focus {
         font-size: 30px; } }
   .cta-area .cta-content p {
     color: #ffffff;
-    margin-bottom: 100px;
+    /* margin-bottom: 100px; */
     font-size: 16px; }
     @media only screen and (max-width: 767px) {
       .cta-area .cta-content p {
-        margin-bottom: 50px; } }
+        margin-bottom: 50px; }
+       }
 
 /* :: 10.0 Small Receipe Area */
 .small-receipe-area {
